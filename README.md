@@ -3,6 +3,9 @@
 
 [![PhiMed's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhiMed&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+![phimedlogo](https://user-images.githubusercontent.com/87627363/155393146-043ef5e1-41ec-4f5b-84c9-58e3af263281.jpg)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhiMed&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
