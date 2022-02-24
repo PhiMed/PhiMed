@@ -1,11 +1,6 @@
-
-
-
 [![PhiMed's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhiMed&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-
-![phimedlogo copy](https://user-images.githubusercontent.com/87627363/155393384-8e7e659a-95fd-4d88-b19e-0f5c20646c10.jpg)
-
+![phimedlogo](https://user-images.githubusercontent.com/87627363/155606902-36488cc8-f02c-431c-a228-accdccb0f751.jpg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhiMed&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
